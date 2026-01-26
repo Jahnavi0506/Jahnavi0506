@@ -1,3 +1,22 @@
+# 💫 Hi 👋, I'm Yattapu Jahnavi
+**3rd B.Tech Student at SASTRA UNIVRESITY || Robotics and AI **
+
+Email Me 👉 ✉️ **127179069@sastra.ac.in** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** PCB Anamoly Detection.
+- 🌱 **I’m currently learning:** LLMs
+- 👯 **I’m looking to collaborate on:** Projects Regarding AI-ML
+- 🤔 **I’m looking for help with:** Project on LLMs
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** 127179069@sastra.ac.in
+- 😄 **Pronouns:** Yattapu Jahnavi
+- ⚡ **Fun fact:**  Trying to Love Tech
+- 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yattapujahnavi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yattapu-jahnavi-1720bb301) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@YattapuJahnavi-qd3dd) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:127179069@sastra.ac.in) 
