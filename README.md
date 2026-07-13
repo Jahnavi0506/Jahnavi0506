@@ -3,14 +3,12 @@
 
 Email Me 👉 ✉️ **127179069@sastra.ac.in** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** PCB Anamoly Detection.
 - 🌱 **I’m currently learning:** LLMs
 - 👯 **I’m looking to collaborate on:** Projects Regarding AI-ML
 - 🤔 **I’m looking for help with:** Project on LLMs
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** 127179069@sastra.ac.in
 - 😄 **Pronouns:** Yattapu Jahnavi
-- ⚡ **Fun fact:**  Trying to Love Tech
 - 
 <!-- Snake Game Repo View -->
 
