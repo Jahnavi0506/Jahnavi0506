@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Yattapu Jahnavi
-**3rd B.Tech Student at SASTRA UNIVRESITY || Robotics and AI **
+**Final year B.Tech Student at SASTRA UNIVRESITY || Robotics and AI **
 
 Email Me 👉 ✉️ **127179069@sastra.ac.in** For Collaboration/Project or Anything Else. 😊😊
 
